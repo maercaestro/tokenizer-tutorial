@@ -11,6 +11,7 @@ kernelspec:
   name: python3
 ---
 
+
 # Mari kita belajar pasal tokenization dari Andrej Kaparthy
 
 The man, the sifu himself. Andrej Kaparthy 
