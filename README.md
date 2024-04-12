@@ -342,6 +342,3 @@ print(re.findall(gpt2pat, example))
 
 Boleh nampak dengan menggunakan regex, kita boleh memperbaiki tokenizer kita, dengan mengasing tanda nama, seperti noktah, tanda seru dan tanda soal. Perhatikan juga yang pattern refexnye ini menggunakan apostrophe, jadi mungkin tak sesuai untuk bahasa melayu. Mungkinlah
 
-```{code-cell} ipython3
-
-```
